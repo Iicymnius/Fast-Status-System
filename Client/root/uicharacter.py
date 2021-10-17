@@ -23,10 +23,10 @@
 
 #change;
 
-			if app.ENABLE_STATUS_UP_RENEWAL and app.IsPressed(app.DIK_LCONTROL):
-				statusPlusCommand=self.faststatusPlusCommandDict[statusKey]
-			else:
-				statusPlusCommand=self.statusPlusCommandDict[statusKey]
+				if app.ENABLE_STATUS_UP_RENEWAL and app.IsPressed(app.DIK_LCONTROL):
+					statusPlusCommand=self.faststatusPlusCommandDict[statusKey]
+				else:
+					statusPlusCommand=self.statusPlusCommandDict[statusKey]
 
 #find again;
 
