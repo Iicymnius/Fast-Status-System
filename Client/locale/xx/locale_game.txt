@@ -1,1 +1,1 @@
-FAST_STATUS_UP	|Eemoji/key_ctrl|e + |Eemoji/key_lclick|e +10 Statü Ver
+FAST_STATUS_UP	ctrl + Sol Tık = +10 Statü Ver
